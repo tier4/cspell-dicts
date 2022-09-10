@@ -1,0 +1,22 @@
+{
+  "id": "template",
+  "readonly": true,
+  "dictionaryDefinitions": [
+    {
+      "name": "template",
+      "path": "./words.txt"
+    }
+  ],
+  "dictionaries": [],
+  "languageSettings": [
+    {
+      "languageId": "*",
+      "locale": "*",
+      "includeRegExpList": [],
+      "ignoreRegExpList": [],
+      "patterns": [],
+      "dictionaries": ["template"],
+      "dictionaryDefinitions": []
+    }
+  ]
+}
