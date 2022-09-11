@@ -1,0 +1,6 @@
+# cspell-tools: keep-case no-split
+
+endfunction
+endmacro
+fetchcontent_getproperties
+fetchcontent_populate

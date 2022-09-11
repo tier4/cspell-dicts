@@ -1,0 +1,22 @@
+{
+  "id": "cmake",
+  "readonly": true,
+  "dictionaryDefinitions": [
+    {
+      "name": "cmake",
+      "path": "./words.txt"
+    }
+  ],
+  "dictionaries": [],
+  "languageSettings": [
+    {
+      "languageId": "cmake",
+      "locale": "*",
+      "includeRegExpList": [],
+      "ignoreRegExpList": [],
+      "patterns": [],
+      "dictionaries": ["cmake"],
+      "dictionaryDefinitions": []
+    }
+  ]
+}

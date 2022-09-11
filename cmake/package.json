@@ -1,0 +1,6 @@
+{
+  "name": "cmake",
+  "scripts": {
+    "test": "cspell -v -c ./cspell-ext.json --languageId=cmake words.txt"
+  }
+}
