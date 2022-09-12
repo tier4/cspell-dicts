@@ -18,5 +18,6 @@
       "dictionaries": ["cmake"],
       "dictionaryDefinitions": []
     }
-  ]
+  ],
+  "overrides": [{ "filename": ["**/*.cmake", "**/CMakeLists.txt"], "languageId": "cmake" }]
 }
