@@ -65,4 +65,11 @@ repos:
     hooks:
       - id: pyright
 
-exclude: .svg
+  - repo: local
+    hooks:
+      - id: format-words
+        name: format words.txt
+        description: Format words.txt.
+        entry: python tier4_cspell_dicts/format_words.py
+        language: python
+        files: .*words.txt$
