@@ -65,4 +65,13 @@ repos:
     hooks:
       - id: pyright
 
+  - repo: local
+    hooks:
+      - id: format-words
+        name: format words.txt
+        description: Format words.txt.
+        entry: python format_words/format_words.py
+        language: python
+        files: .*words.txt$
+
 exclude: .svg
