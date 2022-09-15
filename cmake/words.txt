@@ -2,5 +2,6 @@
 
 endfunction
 endmacro
+fetchcontent_declare
 fetchcontent_getproperties
 fetchcontent_populate
