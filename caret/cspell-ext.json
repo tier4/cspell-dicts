@@ -1,0 +1,22 @@
+{
+  "id": "caret",
+  "readonly": true,
+  "dictionaryDefinitions": [
+    {
+      "name": "caret",
+      "path": "./words.txt"
+    }
+  ],
+  "dictionaries": [],
+  "languageSettings": [
+    {
+      "languageId": "*",
+      "locale": "*",
+      "includeRegExpList": [],
+      "ignoreRegExpList": [],
+      "patterns": [],
+      "dictionaries": ["caret"],
+      "dictionaryDefinitions": []
+    }
+  ]
+}
