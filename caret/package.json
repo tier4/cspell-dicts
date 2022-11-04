@@ -1,0 +1,6 @@
+{
+  "name": "caret",
+  "scripts": {
+    "test": "cspell -v -c ./cspell-ext.json --languageId=* words.txt"
+  }
+}
