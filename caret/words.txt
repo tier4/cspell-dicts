@@ -4,6 +4,7 @@ babeltrace
 binsize
 cpuid
 dataframe
+fini
 Hashable
 lsplit
 minc
