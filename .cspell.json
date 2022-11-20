@@ -1,7 +1,3 @@
 {
-<<<<<<< HEAD
   "ignorePaths": ["**/words.txt"]
-=======
-  "ignorePaths": ["**/words.txt", ".github/CODEOWNERS"]
->>>>>>> origin/add-codeowners
 }
