@@ -9,6 +9,7 @@ Hashable
 lsplit
 minc
 Passingvalue
+pydantic
 Recordsinterface
 Summarizable
 TILDE
