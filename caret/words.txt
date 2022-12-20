@@ -1,5 +1,5 @@
 # cspell-tools: keep-case no-split
-
+Azumi
 babeltrace
 binsize
 cpuid
@@ -28,3 +28,10 @@ YYYYMMDD
 HHMMSS
 Callbackgroup
 simtime
+Kuboichi
+Hasegawa
+Miura
+Funaoka
+Kato
+ICESS
+ROSCON
