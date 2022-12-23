@@ -1,8 +1,10 @@
 # cspell-tools: keep-case no-split
+asctime
 Azumi
 babeltrace
 binsize
 cpuid
+datefmt
 dataframe
 fini
 Hashable
