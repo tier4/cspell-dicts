@@ -2,6 +2,7 @@
 
 endfunction
 endmacro
+externalproject
 fetchcontent_declare
 fetchcontent_getproperties
 fetchcontent_populate
