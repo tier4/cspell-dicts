@@ -10,6 +10,7 @@ fini
 Hashable
 lsplit
 minc
+mininterval
 Passingvalue
 pydantic
 Recordsinterface
