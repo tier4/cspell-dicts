@@ -8,6 +8,7 @@ cpuid
 dataframe
 datefmt
 DBUILD
+fastcdr
 fini
 Funaoka
 Hasegawa
