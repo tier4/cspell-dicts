@@ -1,0 +1,22 @@
+{
+  "id": "people-names",
+  "readonly": true,
+  "dictionaryDefinitions": [
+    {
+      "name": "people-names",
+      "path": "./words.txt"
+    }
+  ],
+  "dictionaries": [],
+  "languageSettings": [
+    {
+      "languageId": "*",
+      "locale": "*",
+      "includeRegExpList": [],
+      "ignoreRegExpList": [],
+      "patterns": [],
+      "dictionaries": ["people-names"],
+      "dictionaryDefinitions": []
+    }
+  ]
+}

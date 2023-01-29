@@ -1,0 +1,22 @@
+{
+  "id": "city-names",
+  "readonly": true,
+  "dictionaryDefinitions": [
+    {
+      "name": "city-names",
+      "path": "./words.txt"
+    }
+  ],
+  "dictionaries": [],
+  "languageSettings": [
+    {
+      "languageId": "*",
+      "locale": "*",
+      "includeRegExpList": [],
+      "ignoreRegExpList": [],
+      "patterns": [],
+      "dictionaries": ["city-names"],
+      "dictionaryDefinitions": []
+    }
+  ]
+}
