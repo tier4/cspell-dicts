@@ -15,6 +15,7 @@ Hasegawa
 Hashable
 HHMMSS
 ICESS
+isin
 Kato
 Kuboichi
 libcaret
