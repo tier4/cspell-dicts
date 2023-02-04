@@ -5,4 +5,5 @@ endmacro
 externalproject
 fetchcontent_declare
 fetchcontent_getproperties
+fetchcontent_makeavailable
 fetchcontent_populate
