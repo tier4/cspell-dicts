@@ -1,7 +1,7 @@
 # cspell-tools: keep-case no-split
 
+Emanuele
 Kenji
 Koide
-Miura
-Emanuele
 Menegatti
+Miura

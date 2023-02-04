@@ -1,0 +1,8 @@
+# cspell-tools: keep-case no-split
+
+ABC
+Abc
+abc
+BCD
+bcD
+bcd
