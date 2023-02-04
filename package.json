@@ -13,8 +13,5 @@
   },
   "devDependencies": {
     "cspell": "^6.8.1"
-  },
-  "dependencies": {
-    "people-names": "*"
   }
 }
