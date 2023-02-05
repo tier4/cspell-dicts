@@ -6,7 +6,7 @@ on:
       dictionary:
         description: The target dictionary
         required: true
-        type: string
+        type: choice
         options:
           - caret
           - city-names
