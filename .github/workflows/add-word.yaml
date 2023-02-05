@@ -39,8 +39,8 @@ jobs:
           token: ${{ steps.generate-token.outputs.token }}
           base: ${{ github.event.repository.default_branch }}
           branch: add-word-${{ inputs.word }}
-          title: "feat(words): add ${{ inputs.word }}"
-          commit-message: "feat(words): add ${{ inputs.word }}"
+          title: "feat(${{ inputs.dictionary }}/words): add ${{ inputs.word }}"
+          commit-message: "feat(${{ inputs.dictionary }}/words): add ${{ inputs.word }}"
           body: "TODO: Update this comment and add some reference links."
           labels: |
             bot
