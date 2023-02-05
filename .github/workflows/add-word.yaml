@@ -7,6 +7,11 @@ on:
         description: The target dictionary
         required: true
         type: string
+        options:
+          - caret
+          - city-names
+          - cmake
+          - people-names
       word:
         description: A word
         required: true
