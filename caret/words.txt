@@ -9,7 +9,11 @@ cpuid
 dataframe
 datefmt
 DBUILD
+EPNS
+eprosima
 fastcdr
+fastdds
+FASTDDS
 fini
 Funaoka
 Hasegawa
@@ -20,6 +24,7 @@ isin
 Kato
 Kuboichi
 libcaret
+libraryv
 libtracetools
 lsplit
 LSTRIP
