@@ -12,8 +12,8 @@ DBUILD
 EPNS
 eprosima
 fastcdr
-fastdds
 FASTDDS
+fastdds
 fini
 Funaoka
 Hasegawa
