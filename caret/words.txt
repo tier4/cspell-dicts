@@ -16,6 +16,7 @@ FASTDDS
 fastdds
 fini
 Funaoka
+gtkterm
 Hasegawa
 Hashable
 HHMMSS
@@ -49,4 +50,3 @@ tracetools
 urdfdom
 varpass
 YYYYMMDD
-gtkterm
