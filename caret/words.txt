@@ -33,6 +33,7 @@ mininterval
 Miura
 NEDO
 Passingvalue
+proxsuite
 pydantic
 Recordsinterface
 ROSCON
@@ -49,4 +50,3 @@ tracetools
 urdfdom
 varpass
 YYYYMMDD
-proxsuite
