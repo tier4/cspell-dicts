@@ -11,6 +11,7 @@ on:
           - caret
           - city-names
           - cmake
+          - organization-names
           - people-names
       word:
         description: A word
