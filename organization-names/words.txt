@@ -1,0 +1,21 @@
+# cspell-tools: keep-case no-split
+
+AIST
+ANYbotics
+ASAM
+autonomoustuff
+autowarefoundation
+DARPA
+FLIR
+Hesai
+MISRA
+Mobileye
+MORAI
+NICT
+OUXT
+robotec
+roboteq
+Skybotix
+SOAFEE
+Ublox
+Waymo

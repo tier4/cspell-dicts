@@ -1,0 +1,22 @@
+{
+  "id": "organization-names",
+  "readonly": true,
+  "dictionaryDefinitions": [
+    {
+      "name": "organization-names",
+      "path": "./words.txt"
+    }
+  ],
+  "dictionaries": [],
+  "languageSettings": [
+    {
+      "languageId": "*",
+      "locale": "*",
+      "includeRegExpList": [],
+      "ignoreRegExpList": [],
+      "patterns": [],
+      "dictionaries": ["organization-names"],
+      "dictionaryDefinitions": []
+    }
+  ]
+}
