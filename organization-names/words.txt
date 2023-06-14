@@ -1,9 +1,13 @@
 # cspell-tools: keep-case no-split
 
+ADLINK
+AISAN
 AIST
 ANYbotics
 ASAM
 autonomoustuff
+AutonomouStuff
+astuff
 autowarefoundation
 DARPA
 FLIR
@@ -12,6 +16,7 @@ MISRA
 Mobileye
 MORAI
 NICT
+OSRF
 OUXT
 robotec
 roboteq
