@@ -5,9 +5,9 @@ AISAN
 AIST
 ANYbotics
 ASAM
-autonomoustuff
-AutonomouStuff
 astuff
+AutonomouStuff
+autonomoustuff
 autowarefoundation
 DARPA
 FLIR
