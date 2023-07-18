@@ -12,8 +12,8 @@ autowarefoundation
 DARPA
 FLIR
 Hesai
-KAIST
 ITRI
+KAIST
 Leishen
 MISRA
 Mobileye
