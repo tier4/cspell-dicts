@@ -13,6 +13,8 @@ DARPA
 FLIR
 Hesai
 KAIST
+ITRI
+Leishen
 MISRA
 Mobileye
 MORAI
