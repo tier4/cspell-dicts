@@ -12,6 +12,7 @@ autowarefoundation
 DARPA
 FLIR
 Hesai
+Leishen
 MISRA
 Mobileye
 MORAI
@@ -24,4 +25,3 @@ Skybotix
 SOAFEE
 Ublox
 Waymo
-Leishen
