@@ -13,6 +13,7 @@ DARPA
 FLIR
 Hesai
 ITRI
+KAIST
 Leishen
 MISRA
 Mobileye
