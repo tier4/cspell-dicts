@@ -12,6 +12,7 @@ autowarefoundation
 DARPA
 FLIR
 Hesai
+ITRI
 MISRA
 Mobileye
 MORAI
