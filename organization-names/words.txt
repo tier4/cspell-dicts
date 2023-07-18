@@ -12,8 +12,8 @@ autowarefoundation
 DARPA
 FLIR
 Hesai
-Leishen
 ITRI
+Leishen
 MISRA
 Mobileye
 MORAI
