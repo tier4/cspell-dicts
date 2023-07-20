@@ -25,5 +25,5 @@ robotec
 roboteq
 Skybotix
 SOAFEE
-Ublox
+u-blox
 Waymo
