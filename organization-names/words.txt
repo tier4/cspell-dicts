@@ -21,10 +21,10 @@ MORAI
 NICT
 OSRF
 OUXT
+Robosense
 robotec
 roboteq
 Skybotix
 SOAFEE
 u-blox
 Waymo
-Robosense
