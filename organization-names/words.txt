@@ -30,3 +30,4 @@ smartmicro
 SOAFEE
 u-blox
 Waymo
+NovAtel
