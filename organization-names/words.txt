@@ -27,3 +27,4 @@ Skybotix
 SOAFEE
 u-blox
 Waymo
+Robosense
