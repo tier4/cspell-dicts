@@ -32,3 +32,4 @@ smartmicro
 SOAFEE
 u-blox
 Waymo
+Schaeffler-Paravan
