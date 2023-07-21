@@ -31,3 +31,4 @@ smartmicro
 SOAFEE
 u-blox
 Waymo
+Dataspeed
