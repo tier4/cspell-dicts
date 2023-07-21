@@ -22,6 +22,7 @@ Neousys
 NICT
 OSRF
 OUXT
+RoboSense
 robotec
 roboteq
 Skybotix
