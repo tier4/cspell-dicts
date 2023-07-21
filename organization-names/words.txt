@@ -20,6 +20,7 @@ Mobileye
 MORAI
 Neousys
 NICT
+NovAtel
 OSRF
 OUXT
 RoboSense
