@@ -25,7 +25,7 @@ RoboSense
 robotec
 roboteq
 Skybotix
+smartmicro
 SOAFEE
 u-blox
 Waymo
-smartmicro
