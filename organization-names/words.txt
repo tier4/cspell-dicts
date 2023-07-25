@@ -33,3 +33,4 @@ smartmicro
 SOAFEE
 u-blox
 Waymo
+NAVYA
