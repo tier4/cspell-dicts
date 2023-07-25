@@ -19,6 +19,7 @@ Leishen
 MISRA
 Mobileye
 MORAI
+NAVYA
 Neousys
 NICT
 NovAtel
@@ -33,4 +34,3 @@ smartmicro
 SOAFEE
 u-blox
 Waymo
-NAVYA
