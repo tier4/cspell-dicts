@@ -27,7 +27,7 @@ OUXT
 RoboSense
 robotec
 roboteq
-Schaeffler-Paravan
+Schaeffler
 Skybotix
 smartmicro
 SOAFEE
