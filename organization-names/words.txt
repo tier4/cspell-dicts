@@ -27,6 +27,7 @@ OUXT
 RoboSense
 robotec
 roboteq
+Schaeffler
 Skybotix
 smartmicro
 SOAFEE
