@@ -19,6 +19,7 @@ Leishen
 MISRA
 Mobileye
 MORAI
+NAVYA
 Neousys
 NICT
 NovAtel
