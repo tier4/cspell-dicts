@@ -40,6 +40,8 @@ RSTRIP
 sched
 setenv
 simtime
+subbuffer
+subbuffers
 Summarizable
 TILDE
 Timeseries
