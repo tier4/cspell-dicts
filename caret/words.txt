@@ -9,6 +9,7 @@ cpuid
 dataframe
 datefmt
 DBUILD
+ddsc
 EPNS
 eprosima
 fastcdr
