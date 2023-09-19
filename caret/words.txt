@@ -16,6 +16,7 @@ FASTDDS
 fastdds
 fini
 Funaoka
+groupby
 Hasegawa
 Hashable
 HHMMSS
