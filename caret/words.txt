@@ -40,6 +40,7 @@ Recordsinterface
 ROSCON
 RSTRIP
 sched
+sessiond
 setenv
 simtime
 Summarizable
