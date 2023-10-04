@@ -22,6 +22,7 @@ Hasegawa
 Hashable
 HHMMSS
 ICESS
+ipbs
 isin
 Kato
 Kuboichi
