@@ -18,12 +18,15 @@ FASTDDS
 fastdds
 fini
 Funaoka
+genexp
 groupby
 Hasegawa
 Hashable
 HHMMSS
 ICESS
+includecache
 ipbs
+ipynb
 isin
 Kato
 Kuboichi
@@ -37,6 +40,7 @@ mininterval
 Miura
 NEDO
 Passingvalue
+polygraphy
 pydantic
 Recordsinterface
 ROSCON
