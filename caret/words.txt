@@ -35,6 +35,7 @@ libraryv
 libtracetools
 lsplit
 LSTRIP
+mimick
 minc
 mininterval
 Miura
@@ -43,6 +44,7 @@ Passingvalue
 polygraphy
 pydantic
 Recordsinterface
+ROS2
 ROSCON
 RSTRIP
 sched
