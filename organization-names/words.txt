@@ -23,6 +23,7 @@ NAVYA
 Neousys
 NICT
 NovAtel
+OMRON
 OSRF
 OUXT
 RoboSense
@@ -34,4 +35,3 @@ smartmicro
 SOAFEE
 u-blox
 Waymo
-OMRON
