@@ -23,6 +23,7 @@ NAVYA
 Neousys
 NICT
 NovAtel
+OMRON
 OSRF
 OUXT
 RoboSense
