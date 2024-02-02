@@ -34,3 +34,4 @@ smartmicro
 SOAFEE
 u-blox
 Waymo
+OMRON
