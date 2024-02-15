@@ -6,3 +6,4 @@ Koide
 Menegatti
 Miura
 Miyake
+shafer
