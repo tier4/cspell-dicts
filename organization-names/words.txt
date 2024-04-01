@@ -35,3 +35,4 @@ smartmicro
 SOAFEE
 u-blox
 Waymo
+Taisei
