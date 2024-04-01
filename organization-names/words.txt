@@ -33,6 +33,6 @@ Schaeffler
 Skybotix
 smartmicro
 SOAFEE
+Taisei
 u-blox
 Waymo
-Taisei
