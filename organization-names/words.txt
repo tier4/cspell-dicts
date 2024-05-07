@@ -36,3 +36,4 @@ SOAFEE
 Taisei
 u-blox
 Waymo
+WHILL
