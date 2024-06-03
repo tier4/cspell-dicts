@@ -16,6 +16,7 @@ Hesai
 ITRI
 KAIST
 Leishen
+Logicool
 MISRA
 Mobileye
 MORAI
