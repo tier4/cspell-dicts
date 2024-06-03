@@ -37,3 +37,4 @@ Taisei
 u-blox
 Waymo
 WHILL
+Logicool
