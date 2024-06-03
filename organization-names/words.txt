@@ -16,6 +16,7 @@ Hesai
 ITRI
 KAIST
 Leishen
+Logicool
 MISRA
 Mobileye
 MORAI
@@ -37,4 +38,3 @@ Taisei
 u-blox
 Waymo
 WHILL
-Logicool
