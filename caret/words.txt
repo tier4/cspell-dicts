@@ -31,6 +31,7 @@ isin
 Kato
 Kuboichi
 libcaret
+libpcre
 libraryv
 libtracetools
 lsplit
