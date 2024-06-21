@@ -40,6 +40,7 @@ minc
 mininterval
 Miura
 NEDO
+nproc
 openadk
 Passingvalue
 polygraphy
@@ -64,4 +65,3 @@ tracetools
 urdfdom
 varpass
 YYYYMMDD
-nproc
