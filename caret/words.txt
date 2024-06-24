@@ -41,7 +41,6 @@ minc
 mininterval
 Miura
 NEDO
-nproc
 openadk
 Passingvalue
 polygraphy
