@@ -1,6 +1,7 @@
 # cspell-tools: keep-case no-split
 
 Emanuele
+Horibe
 Kenji
 Koide
 Mamoru
@@ -11,4 +12,3 @@ shafer
 Shimizu
 Sobue
 youtalk
-Horibe
