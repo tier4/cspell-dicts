@@ -1,6 +1,7 @@
 # cspell-tools: keep-case no-split
 
 Emanuele
+Horibe
 Kenji
 Koide
 Mamoru
