@@ -1,6 +1,7 @@
 # cspell-tools: keep-case no-split
 
 ADLINK
+aeva
 AISAN
 AIST
 ANYbotics
@@ -38,4 +39,3 @@ Taisei
 u-blox
 Waymo
 WHILL
-aeva
