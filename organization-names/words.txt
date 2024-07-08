@@ -1,6 +1,7 @@
 # cspell-tools: keep-case no-split
 
 ADLINK
+aeva
 AISAN
 AIST
 ANYbotics
