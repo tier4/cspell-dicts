@@ -31,6 +31,7 @@ RoboSense
 robotec
 roboteq
 Schaeffler
+Seyond
 Skybotix
 smartmicro
 SOAFEE
@@ -38,4 +39,3 @@ Taisei
 u-blox
 Waymo
 WHILL
-Seyond
