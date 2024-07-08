@@ -27,6 +27,7 @@ NovAtel
 OMRON
 OSRF
 OUXT
+OxTS
 RoboSense
 robotec
 roboteq
@@ -38,4 +39,3 @@ Taisei
 u-blox
 Waymo
 WHILL
-OxTS
