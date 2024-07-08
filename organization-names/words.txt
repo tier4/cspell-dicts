@@ -28,6 +28,7 @@ NovAtel
 OMRON
 OSRF
 OUXT
+OxTS
 RoboSense
 robotec
 roboteq
