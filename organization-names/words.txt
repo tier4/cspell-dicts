@@ -31,6 +31,7 @@ RoboSense
 robotec
 roboteq
 Schaeffler
+Seyond
 Skybotix
 smartmicro
 SOAFEE
