@@ -6,6 +6,7 @@ Kenji
 Koide
 Mamoru
 masayuki
+masayuki
 Menegatti
 Miura
 Miyake
@@ -13,4 +14,3 @@ shafer
 Shimizu
 Sobue
 youtalk
-masayuki
