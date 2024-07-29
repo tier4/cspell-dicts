@@ -56,12 +56,12 @@ repos:
         args: [--line-length=100]
 
   - repo: https://github.com/tier4/pre-commit-hooks-ros
-    rev: v0.8.0
+    rev: v0.10.0
     hooks:
       - id: flake8-ros
 
   - repo: https://github.com/ComPWA/mirrors-pyright
-    rev: v1.1.368
+    rev: v1.1.372
     hooks:
       - id: pyright
 
