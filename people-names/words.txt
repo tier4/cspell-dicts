@@ -1,10 +1,12 @@
 # cspell-tools: keep-case no-split
 
+aino
 Emanuele
 Horibe
 Kenji
 Koide
 Mamoru
+masayuki
 Menegatti
 Miura
 Miyake
