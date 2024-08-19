@@ -50,7 +50,7 @@ repos:
       - id: isort
 
   - repo: https://github.com/psf/black
-    rev: 24.4.2
+    rev: 24.8.0
     hooks:
       - id: black
         args: [--line-length=100]
@@ -61,7 +61,7 @@ repos:
       - id: flake8-ros
 
   - repo: https://github.com/ComPWA/mirrors-pyright
-    rev: v1.1.372
+    rev: v1.1.375
     hooks:
       - id: pyright
 
