@@ -1,16 +1,37 @@
 # cspell-tools: keep-case no-split
 
 aino
+caliskan
 Emanuele
+Fumiya
 Horibe
+Isamu
+Jeronimo
 Kenji
+Kimura
 Koide
+Koji
+Kondo
 Mamoru
 masayuki
+Maxime
 Menegatti
+Minoda
 Miura
 Miyake
+murooka
+Nikulin
+Ryohsuke
+Satoshi
 shafer
 Shimizu
+Shumpei
 Sobue
+Takamasa
+Takayuki
+Tomoya
+Wakabayashi
+Watanabe
 youtalk
+yunus
+Yutaka
