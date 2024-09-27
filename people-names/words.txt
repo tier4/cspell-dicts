@@ -5,7 +5,9 @@ caliskan
 Eberly
 Emanuele
 Fumiya
+hakuturu
 Horibe
+Kataoka
 Isamu
 Jeronimo
 Kenji
@@ -14,6 +16,7 @@ Koide
 Koji
 Kondo
 Mamoru
+Masaya
 masayuki
 Maxime
 Menegatti
@@ -33,6 +36,7 @@ Takayuki
 Tomoya
 Wakabayashi
 Watanabe
+yamacir-kit
 youtalk
 yunus
 Yutaka
