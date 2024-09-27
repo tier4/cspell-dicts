@@ -3,9 +3,11 @@
 aino
 Emanuele
 Horibe
+Kataoka
 Kenji
 Koide
 Mamoru
+Masaya
 masayuki
 Menegatti
 Miura
@@ -13,4 +15,5 @@ Miyake
 shafer
 Shimizu
 Sobue
+yamacir-kit
 youtalk
