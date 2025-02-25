@@ -6,6 +6,7 @@ AISAN
 AIST
 ANYbotics
 ASAM
+asmobi
 astuff
 AutonomouStuff
 autonomoustuff
@@ -42,4 +43,3 @@ Taisei
 u-blox
 Waymo
 WHILL
-asmobi
