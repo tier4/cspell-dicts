@@ -42,3 +42,4 @@ Taisei
 u-blox
 Waymo
 WHILL
+asmobi
