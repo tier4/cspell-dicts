@@ -4,6 +4,7 @@ aino
 caliskan
 Eberly
 Emanuele
+Ericpotato
 Fumiya
 hakuturu
 Horibe
@@ -40,4 +41,3 @@ yamacir-kit
 youtalk
 yunus
 Yutaka
-Ericpotato
