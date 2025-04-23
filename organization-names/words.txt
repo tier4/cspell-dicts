@@ -6,6 +6,7 @@ AISAN
 AIST
 ANYbotics
 ASAM
+asmobi
 astuff
 AutonomouStuff
 autonomoustuff
