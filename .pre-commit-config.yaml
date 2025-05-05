@@ -29,7 +29,7 @@ repos:
       - id: prettier
 
   - repo: https://github.com/adrienverge/yamllint
-    rev: v1.37.0
+    rev: v1.37.1
     hooks:
       - id: yamllint
 
@@ -61,7 +61,7 @@ repos:
       - id: flake8-ros
 
   - repo: https://github.com/ComPWA/mirrors-pyright
-    rev: v1.1.399
+    rev: v1.1.400
     hooks:
       - id: pyright
 
