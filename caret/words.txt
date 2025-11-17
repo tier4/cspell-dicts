@@ -17,7 +17,6 @@ fastcdr
 FASTDDS
 fastdds
 fini
-fintekcan
 Funaoka
 genexp
 groupby
@@ -44,7 +43,6 @@ Miura
 NEDO
 openadk
 Passingvalue
-peakcan
 polygraphy
 pydantic
 Recordsinterface

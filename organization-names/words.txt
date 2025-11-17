@@ -13,6 +13,7 @@ autowarefoundation
 DARPA
 Dataspeed
 driveblocks
+fintekcan
 FLIR
 Hesai
 ITRI
