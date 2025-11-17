@@ -6,6 +6,7 @@ Azumi
 babeltrace
 binsize
 Callbackgroup
+ciid
 cpuid
 dataframe
 datefmt
@@ -65,4 +66,3 @@ tracetools
 urdfdom
 varpass
 YYYYMMDD
-ciid
