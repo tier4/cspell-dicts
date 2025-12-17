@@ -13,6 +13,7 @@ on:
           - cmake
           - organization-names
           - people-names
+          - ros
       word:
         description: A word
         required: true
