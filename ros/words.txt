@@ -32,3 +32,12 @@ turtlesim
 urdf
 vcstool
 xacro
+buildtool_depend
+osrf
+roscd
+rosdistro
+rosgraph
+rosidl
+rosout
+rostest
+schematypens
