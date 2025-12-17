@@ -1,12 +1,14 @@
 # cspell-tools: keep-case no-split
 
 actionlib
+buildtool_depend
 colcon
 cyclonedds
 fastrtps
 intraprocess
 laserscan
 moveit
+osrf
 pointcloud
 rclcpp
 rclpy
@@ -14,20 +16,27 @@ rosbag
 rosbag2
 rosbridge
 roscd
+roscd
 roscore
 rosdep
+rosdistro
+rosgraph
+rosidl
 roslaunch
 rosls
 rosmsg
 rosnode
+rosout
 rospack
 rosparam
 rosrun
 rosservice
 rossrv
+rostest
 rostopic
 rviz
 rviz2
+schematypens
 turtlesim
 urdf
 vcstool
