@@ -1,0 +1,22 @@
+{
+  "id": "ros",
+  "readonly": true,
+  "dictionaryDefinitions": [
+    {
+      "name": "ros",
+      "path": "./words.txt"
+    }
+  ],
+  "dictionaries": [],
+  "languageSettings": [
+    {
+      "languageId": "*",
+      "locale": "*",
+      "includeRegExpList": [],
+      "ignoreRegExpList": [],
+      "patterns": [],
+      "dictionaries": ["ros"],
+      "dictionaryDefinitions": []
+    }
+  ]
+}

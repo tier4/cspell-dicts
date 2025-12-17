@@ -13,6 +13,7 @@ on:
           - cmake
           - organization-names
           - people-names
+          - ros
       word:
         description: A word
         required: true
@@ -40,7 +41,7 @@ jobs:
 
       - name: Create PR
         id: create-pr
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ steps.generate-token.outputs.token }}
           base: ${{ github.event.repository.default_branch }}
