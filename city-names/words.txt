@@ -1,5 +1,5 @@
 # cspell-tools: keep-case no-split
 
 Shinagawa
-Toyohashi
 Shinjuku
+Toyohashi
