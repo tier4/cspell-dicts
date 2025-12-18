@@ -22,11 +22,13 @@ masayuki
 Maxime
 Menegatti
 Minoda
+Mitsudome
 Miura
 Miyake
 murooka
 Nikulin
 Ryohsuke
+Saito
 Satoshi
 shafer
 Shimizu
@@ -34,10 +36,12 @@ Shumpei
 Sobue
 Takamasa
 Takayuki
+Tatsuya
 Tomoya
 Wakabayashi
 Watanabe
 yamacir-kit
+Yamasaki
 youtalk
 yunus
 Yutaka
