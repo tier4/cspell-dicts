@@ -1,6 +1,6 @@
 # cspell-tools: keep-case no-split
 
 Shinagawa
-Shiojiri
 Shinjuku
+Shiojiri
 Toyohashi
