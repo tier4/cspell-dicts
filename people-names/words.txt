@@ -22,6 +22,7 @@ masayuki
 Maxime
 Menegatti
 Minoda
+Mitsudome
 Miura
 Miyake
 murooka
@@ -41,4 +42,3 @@ yamacir-kit
 youtalk
 yunus
 Yutaka
-Mitsudome
