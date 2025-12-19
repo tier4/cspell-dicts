@@ -1,9 +1,5 @@
 # cspell-tools: keep-case no-split
 
-Shinagawa
-Shinjuku
-Shiojiri
-Toyohashi
 Amesville
 Jiangnan
 Kashiwa
@@ -11,3 +7,7 @@ Kashiwanoha
 Kinshicho
 NishiShinjuku
 Odaiba
+Shinagawa
+Shinjuku
+Shiojiri
+Toyohashi
