@@ -1,6 +1,7 @@
 # cspell-tools: keep-case no-split
 
 Amesville
+Eppstein
 Jiangnan
 Kashiwa
 Kashiwanoha
@@ -11,4 +12,3 @@ Shinagawa
 Shinjuku
 Shiojiri
 Toyohashi
-Eppstein
