@@ -85,3 +85,15 @@ Webots
 xacro
 Zenoh
 zenohd
+rosapi
+rosauth
+rosconsole
+roscpp
+ROScube
+roslib
+roslint
+rospkg
+rospy
+rostooling
+rosunit
+roswww
