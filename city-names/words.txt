@@ -1,5 +1,13 @@
 # cspell-tools: keep-case no-split
 
+Amesville
+Eppstein
+Jiangnan
+Kashiwa
+Kashiwanoha
+Kinshicho
+NishiShinjuku
+Odaiba
 Shinagawa
 Shinjuku
 Shiojiri
