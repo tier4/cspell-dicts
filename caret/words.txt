@@ -54,6 +54,7 @@ sched
 sessiond
 setenv
 simtime
+stackcollapse
 subbuffer
 subbuffers
 Summarizable
@@ -66,4 +67,3 @@ tracetools
 urdfdom
 varpass
 YYYYMMDD
-stackcollapse
