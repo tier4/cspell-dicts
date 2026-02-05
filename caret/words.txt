@@ -22,6 +22,7 @@ genexp
 groupby
 Hasegawa
 Hashable
+hcon
 HHMMSS
 ICESS
 includecache
@@ -66,4 +67,3 @@ tracetools
 urdfdom
 varpass
 YYYYMMDD
-hcon
