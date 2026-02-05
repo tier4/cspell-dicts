@@ -43,3 +43,4 @@ Taisei
 u-blox
 Waymo
 WHILL
+Proprietary
