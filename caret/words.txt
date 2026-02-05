@@ -58,6 +58,7 @@ subbuffer
 subbuffers
 Summarizable
 suppr
+TIER
 TILDE
 Timeseries
 tracepoint
@@ -66,4 +67,3 @@ tracetools
 urdfdom
 varpass
 YYYYMMDD
-TIER
