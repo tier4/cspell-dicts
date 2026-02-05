@@ -11,6 +11,7 @@ dataframe
 datefmt
 DBUILD
 ddsc
+DIVX
 EPNS
 eprosima
 fastcdr
@@ -66,4 +67,3 @@ tracetools
 urdfdom
 varpass
 YYYYMMDD
-DIVX
