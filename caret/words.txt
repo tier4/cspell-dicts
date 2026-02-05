@@ -30,6 +30,7 @@ ipynb
 isin
 Kato
 Kuboichi
+legline
 libcaret
 libraryv
 libtracetools
@@ -66,4 +67,3 @@ tracetools
 urdfdom
 varpass
 YYYYMMDD
-legline
