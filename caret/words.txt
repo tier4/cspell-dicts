@@ -1,6 +1,7 @@
 # cspell-tools: keep-case no-split
 
 asctime
+autopct
 autorefs
 Azumi
 babeltrace
@@ -66,4 +67,3 @@ tracetools
 urdfdom
 varpass
 YYYYMMDD
-autopct
