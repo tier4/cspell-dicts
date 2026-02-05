@@ -31,6 +31,7 @@ OMRON
 OSRF
 OUXT
 OxTS
+Proprietary
 RoboSense
 robotec
 roboteq
@@ -44,4 +45,3 @@ TIER
 u-blox
 Waymo
 WHILL
-Proprietary
