@@ -30,6 +30,7 @@ ipynb
 isin
 Kato
 Kuboichi
+LANCZOS
 libcaret
 libraryv
 libtracetools
@@ -66,4 +67,3 @@ tracetools
 urdfdom
 varpass
 YYYYMMDD
-LANCZOS
