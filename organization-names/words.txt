@@ -41,7 +41,7 @@ smartmicro
 SOAFEE
 Taisei
 TIER
+TIER
 u-blox
 Waymo
 WHILL
-TIER
