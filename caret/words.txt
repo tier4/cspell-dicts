@@ -54,6 +54,7 @@ sched
 sessiond
 setenv
 simtime
+startangle
 subbuffer
 subbuffers
 Summarizable
@@ -66,4 +67,3 @@ tracetools
 urdfdom
 varpass
 YYYYMMDD
-startangle
