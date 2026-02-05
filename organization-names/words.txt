@@ -31,6 +31,7 @@ OMRON
 OSRF
 OUXT
 OxTS
+Proprietary
 RoboSense
 robotec
 roboteq
@@ -43,4 +44,3 @@ Taisei
 u-blox
 Waymo
 WHILL
-Proprietary
