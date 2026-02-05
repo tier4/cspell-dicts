@@ -5,6 +5,7 @@ autorefs
 Azumi
 babeltrace
 binsize
+boxstyle
 Callbackgroup
 cpuid
 dataframe
@@ -66,4 +67,3 @@ tracetools
 urdfdom
 varpass
 YYYYMMDD
-boxstyle
