@@ -8,6 +8,7 @@ ANYbotics
 ASAM
 asmobi
 astuff
+AutoCore
 AutonomouStuff
 autonomoustuff
 autowarefoundation
@@ -44,4 +45,3 @@ TIER
 u-blox
 Waymo
 WHILL
-AutoCore
